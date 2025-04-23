@@ -1,5 +1,5 @@
 
-# 🎓 Canvas to Microsoft Teams Integration Script
+# 🎓 Insert Teams into Canvas LMS Nav
 
 This Python script automates the integration of **Canvas LMS** courses with corresponding **Microsoft Teams**. It fetches Canvas courses for a specific term, attempts to match them with Microsoft Teams based on SIS Course ID or course name, and creates a redirect link in each Canvas course pointing to the matched Microsoft Team. Results are exported to an Excel file.
 
